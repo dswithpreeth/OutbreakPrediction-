@@ -62,3 +62,7 @@ This project aims to develop an accurate prediction model for disease outbreaks 
 ## Contributing
 We welcome contributions from the community. To contribute, please fork the repository, create a new branch, and submit a pull request with your changes.
 
+## Research Paper 
+For more details, visit our [project website](https://ijircce.com/admin/main/storage/app/pdf/kVO9W7RYS60uOTkATfSijDN9lI7M4F1vlmIqFdh0.pdf).
+
+'''''''
